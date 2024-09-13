@@ -55,10 +55,10 @@ div {
 .blue {
     background-color: #0000ff;
     border-width: 5px 2px 0px 0px;
+    margin-right: 50px;
 }
 .blue p{
     text-align: left;
-    margin-right: 50px;
     color: #C4C4C4;
 }
 .blue h2{
